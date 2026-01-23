@@ -38,6 +38,17 @@ In the table below you can see what columns in the dataset you should use in acc
 
 \* You can use standard classification metrics (precision, accuracy, F1-score) to assess model's performance on multilabel classification task and mean average error (MAE)/ mean squared error (MSE) for regression task. Additionally, you can refer to [sci-kit learn's metrics list](https://scikit-learn.org/stable/modules/model_evaluation.html#string-name-scorers) to choose the appropriate metric for your task (please, explain your metric choice if you use some other metric instead of the mentioned here).
 
+## Additional Materials
+If you need examples, I recommend you to have a look at the following notebooks:
+- **Multilabel classification:**
+    - [Multi-label classification with neural networks](https://www.kaggle.com/code/residentmario/multi-label-classification-with-neural-networks/notebook) — a simple pipeline with comments that shows how to conduct multilabel classification.
+    - [Extreme Multilabel Text Classification 12 models](https://www.kaggle.com/code/supasunkumpraphan/extreme-multilabel-text-classification-12-models) — a big notebook with experiments on basic ML models and neural networks (has LSTM example).
+- **Regression:**
+    - [Regression with Neural Networks using PyTorc](https://www.kaggle.com/code/stefancomanita/regression-with-neural-networks-using-pytorc) — can be used as a simple pipeline reference.
+    - [Deep neural networks for spectral data regression with TensorFlow](https://nirpyresearch.com/deep-neural-networks-spectral-data-regression-tensorflow/) — here you can look at what metrics can be used for the task.
+
+The example are not ideal, but they should help you to get a basic understanding of how to conduct the given tasks.
+
 ## Formal Requirements
 - Reproducibility
 - Adequacy
@@ -48,6 +59,7 @@ In the table below you can see what columns in the dataset you should use in acc
 - Absence of overfitting*
 - Plagiarism is forbidden
 - Inappropriate use of dataset splits will result in penalties
+- Use `PyTorch` framework to work with neural networks
 
 ## Bonus Task
 Student can make an additional task to get a mark for bonus part. Students can suggest their own tasks or try to complete the one given as an example. **Students must inform their instructor of their willingness to complete a bonus task beforehand!**
