@@ -47,10 +47,11 @@ A student gets:
 - Apply bytepair encoding (BPE) by writing your own tokenizer. Use it in your pipeline.
 
 ## Deadlines
-- Soft — 28.02.26
-- **Strict — 01.03.26** (1 point penalty)
+- Soft — ~28.02.26~ 05.03.26
+- **Strict — ~01.03.26~ 06.03.26** (1 point penalty)
 
 ## Upload link
 > https://forms.yandex.ru/u/6985f66b90fa7b3e71546094
+
 
 **NB!** The form will automatically close on 01.03.26 at 23:59 and you won't be able to send your work!
