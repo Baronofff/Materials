@@ -54,4 +54,5 @@ A student gets:
 > https://forms.yandex.ru/u/6985f66b90fa7b3e71546094
 
 
-**NB!** The form will automatically close on 01.03.26 at 23:59 and you won't be able to send your work!
+**NB!** The form will automatically close on 06.03.26 at 23:59 and you won't be able to send your work!
+
